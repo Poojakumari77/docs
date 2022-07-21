@@ -25,10 +25,10 @@ shortTitle: Add a repository
 
 {% endmac %}
 
-{% windows %}
-
-1. In the **File** menu, click **Add local repository**.
-  ![Add Local Repository menu option](/assets/images/help/desktop/add-local-repository-windows.png)
+{% खिड़कियाँ %}
+मैं
+1. ****** मेनू में, ** स्थिर धन जोड़ें** पर क्लिक करें।
+  ! [स्थानीय भंडार मेनू विकल्प जोड़ें] (/assets/images/help/desktop/add-local-repository-windows.png)
 2. Click **Choose...** and, using Windows Explorer, navigate to the local repository you want to add.
   ![The Local Path field in the Windows app](/assets/images/help/desktop/add-repo-choose-button-win.png)
 4. Click **Add repository**.
